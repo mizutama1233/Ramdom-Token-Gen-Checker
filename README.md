@@ -1,6 +1,8 @@
 # Ramdom-Token-Gen-Checker
 Ramdom-Token-Gen and Checker
 
+& open sourcecode!!
+
 # How to use
 Very easy to use
 
