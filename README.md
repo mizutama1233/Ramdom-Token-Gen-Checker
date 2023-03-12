@@ -14,3 +14,5 @@ Very easy to use
 
 # Need support?
 Come in here : https://discord.gg/Y2fcjAf98m
+
+My username is とっきーﾅﾏｽﾃ#4649
