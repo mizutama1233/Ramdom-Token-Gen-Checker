@@ -1,3 +1,5 @@
+# 販売禁止です
+
 # Ramdom-Token-Gen-Checker
 Ramdom-Token-Gen and Checker
 
